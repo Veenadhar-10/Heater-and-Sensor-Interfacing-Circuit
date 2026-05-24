@@ -133,3 +133,6 @@ Portable-Heater-System/
 
 ## Author
 Veenadhar
+## Team Members
+- Phanidhar
+- Sharandeep
